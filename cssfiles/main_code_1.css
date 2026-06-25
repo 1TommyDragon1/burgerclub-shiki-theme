@@ -573,7 +573,7 @@ a.b-anime_status_tag.studio:hover:before {
 }
 
 .activity .bar.simple .bar {
-    border-radius: 8px 8px 0 0;
+    border-radius: 2px 2px 0 0;
 }
 
 .bar.simple .bar.s3:hover,
@@ -2687,7 +2687,7 @@ img {
     animation-fill-mode: both;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
-    animation-duration: 1.5s;
+    animation-duration: 3s;
     animation-name: activity;
 }
 
